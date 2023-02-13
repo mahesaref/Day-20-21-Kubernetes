@@ -1,0 +1,44 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+###Security###
+*.jks
+*.p12
+*.csr
+*.crt
+*.key
+mongo-kubernetes-configmap-playground.yaml
+mongo-kubernetes-playground.yaml
+mongo-kubernetes-api-playground.yaml
+mongo-kubernetes-playground2.yaml
+mongo-kubernetes-configmap-playground2.yaml
+registration/registrationfile2.json
+mongo-kubernetes-playground3.yaml
+mongo-kubernetes-configmap-playground3.yaml
+mongo-kubernetes-playground4.yaml
+mongo-kubernetes-configmap-playground5.yaml
+mongo-kubernetes-playground6.yaml
+mongo-kubernetes-configmap-playground6.yaml
